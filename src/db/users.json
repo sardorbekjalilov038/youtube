@@ -1,0 +1,14 @@
+[
+    {
+        "id": 2,
+        "username": "Bobur",
+        "password": "$argon2id$v=19$m=65536,t=3,p=4$m0AJUBbNk+coiGEG1aYq+w$C29xoolvbWFQe9A8C8N3UGPKKBZtoZX4ZO5dpb/nP/g",
+        "profile_img": "1794309954545.jpg"
+    },
+    {
+        "id": 3,
+        "username": "Bobur12",
+        "password": "$argon2id$v=19$m=65536,t=3,p=4$u9ZqYl8yxWmS8rq55ikHjA$CI/AarpLVIcZTTBdKGF0ReDWqtrcn18gAouT6JOYDcE",
+        "profile_img": "1794314265805.jpg"
+    }
+]
